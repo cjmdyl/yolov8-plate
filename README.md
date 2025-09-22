@@ -1,4 +1,4 @@
-## **yolov8车牌识别算法，支持12种中文车牌类型**
+## **yolov8车牌识别算法
 
 #### **图片测试demo:**
 
@@ -13,14 +13,6 @@ python detect_rec_plate.py --detect_model weights/yolov8s.pt  --rec_model weight
 ## **车牌检测训练**
 
 车牌检测训练链接如下：
-
-[车牌检测训练](https://github.com/we0091234/yolov8-plate/tree/master/readme)
-
-## **车牌识别训练**
-
-车牌识别训练链接如下：
-
-[车牌识别训练](https://github.com/we0091234/crnn_plate_recognition)
 
 #### **支持如下：**
 
@@ -37,11 +29,3 @@ python detect_rec_plate.py --detect_model weights/yolov8s.pt  --rec_model weight
 - [X] 11.双层绿牌
 - [X] 12.民航车牌
 
-## References
-
-* [https://github.com/derronqi/yolov8-face](https://github.com/derronqi/yolov8-face)
-* [https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
-
-## 联系
-
-**有问题可以提issues 或者加qq群:769809695（新群） 837982567（已满） 询问**
